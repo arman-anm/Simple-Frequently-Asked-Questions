@@ -18,4 +18,5 @@ A minimal **Frequently Asked Questions (FAQ)** webpage built with HTML and CSS, 
 
 This lightweight FAQ section can easily be integrated into larger projects or serve as a template for new ones.
 
- 
+## Shoutout
+This project is based on the [Simple FAQ Challenge](https://devchallenges.io/challenge/simple-faq-challenge) by [DevChallenges](https://devchallenges.io/).
