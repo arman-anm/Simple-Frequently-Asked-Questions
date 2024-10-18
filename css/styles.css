@@ -1,3 +1,10 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+  font-size: 16px;
+}
+
 /* Reset some default styles */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
@@ -11,5 +18,34 @@ a {
 
 * {
     box-sizing: border-box;
+}
+/* End of reset  */
+
+body {
+  max-width: 625px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 2.25rem;
+  font-weight: 600;
+  margin: 20px 0;
+
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+header {
+margin: 50px 0;
+text-align: center;
 }
 
