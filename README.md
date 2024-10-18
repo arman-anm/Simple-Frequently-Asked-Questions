@@ -2,7 +2,8 @@
 
 A minimal **Frequently Asked Questions (FAQ)** webpage built with HTML and CSS, designed to provide clear answers to common customer inquiries.
 
-[Live Demo](https://arman-anm.github.io/Simple-Frequently-Asked-Questions)
+<a href="https://arman-anm.github.io/Simple-Frequently-Asked-Questions" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
 
 ## Features
 - **Responsive Design**: Adjusts seamlessly to different screen sizes.
@@ -19,4 +20,4 @@ A minimal **Frequently Asked Questions (FAQ)** webpage built with HTML and CSS, 
 This lightweight FAQ section can easily be integrated into larger projects or serve as a template for new ones.
 
 ## Shoutout
-This project is based on the [Simple FAQ Challenge](https://devchallenges.io/challenge/simple-faq-challenge) by [DevChallenges](https://devchallenges.io/).
+This project is based on the <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank" rel="noopener noreferrer">Simple FAQ Challenge</a> by <a href="https://devchallenges.io/" target="_blank" rel="noopener noreferrer">DevChallenges</a>.
