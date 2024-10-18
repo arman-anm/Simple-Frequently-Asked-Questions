@@ -26,8 +26,9 @@ a {
 
 /* Global Styles */
 body {
-  max-width: 625px;
+  max-width: 640px;
   margin: 0 auto;
+  padding: 0 25px;
   font-family: "Inter", sans-serif;
   font-size: 1rem; /* 16px*/
   font-weight: 400; 
